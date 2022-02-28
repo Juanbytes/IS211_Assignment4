@@ -1,6 +1,7 @@
 import time
 import random
 
+#It was very difficult for me
 
 def insertion_sort(a_list):
     start_time = time.time()

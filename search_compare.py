@@ -1,6 +1,7 @@
 import time
 import random
 
+#It was very difficult for me
 
 def sequential_search(a_list, a_item):
 
